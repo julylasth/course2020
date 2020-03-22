@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button">Button</string>
+    <string name="information">It is a ScrollView below, and it content can be changed by the spinner below. The content is from Internet, just for test and fun.</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="text">Do not show image</string>
+    <string name="aLongText">2020-03-22 </string>
+</resources>
